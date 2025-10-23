@@ -6,7 +6,7 @@
 
 ### 🧠 About Me
 
-Passionate about **cybersecurity**, **system & network administration**, and **automation**.  
+Passionate about **cybersecurity**, **systems & network administration**, and **automation**.  
 I love exploring new technologies, solving technical challenges, and building secure, efficient solutions.  
 Always curious — always learning. 🚀
 
