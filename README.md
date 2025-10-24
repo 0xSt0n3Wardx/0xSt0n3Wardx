@@ -35,7 +35,7 @@ Always curious — always learning. 🚀
 
 - 🧑‍💻 GitHub: [github.com/0x4Dxx](https://github.com/0x4Dxx)
 - 💼 LinkedIn: ([www.linkedin.com/in/adama-diakite-informatique](https://www.linkedin.com/in/adama-diakite-informatique/))
-- 🏴‍☠️ TryHackMe / HackTheBox / CTFtime — coming soon 😎
+
 
 ---
 
