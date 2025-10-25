@@ -33,7 +33,7 @@ Always curious — always learning. 🚀
 
 ### 🌍 Find Me
 
-- 🧑‍💻 GitHub: [github.com/0x4Dxx](https://github.com/0xSt0n3Wardx)
+- 🧑‍💻 GitHub: [github.com/0xSt0n3Wardx)](https://github.com/0xSt0n3Wardx)
 - 💼 LinkedIn: ([www.linkedin.com/in/adama-diakite-informatique](https://www.linkedin.com/in/adama-diakite-informatique/))
 
 
