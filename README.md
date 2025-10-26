@@ -12,6 +12,18 @@ Always curious — always learning. 🚀
 
 ---
 
+## 🎯 Quick Links
+
+| | |
+|-|-|
+| **📂 Projects** | [View My Work →](projects.md) |
+| **🛠️ Skills** | [See My Expertise →](skills.md) |
+| **📜 Certifications** | [Verify My Credentials →](certifications.md) |
+| **💼 Experience** | [My Journey →](experience.md) |
+| **📞 Contact** | [Get In Touch →](contact.md) |
+
+---
+
 ### 🛠️ Tech & Tools I Use
 
 - 🐧 Linux (Debian, Ubuntu, Kali)
